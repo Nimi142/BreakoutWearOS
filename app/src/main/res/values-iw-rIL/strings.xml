@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play">שחק</string>
+    <string name="score_string">ניקוד שיא: %d</string>
+    <string name="full_clear_time_string">הצלחה: %1$tT</string>
+</resources>

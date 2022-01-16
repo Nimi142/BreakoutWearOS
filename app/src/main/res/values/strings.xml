@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Breakout</string>
+    <string name="title" translatable="false">Breakout WearOS</string>
+    <string name="play">Play</string>
+    <string name="score_string">High Score: %d</string>
+    <string name="full_clear_time_string">Full Clear: %1$tT</string>
+</resources>
