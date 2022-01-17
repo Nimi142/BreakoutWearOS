@@ -1,6 +1,7 @@
 ![Banner Logo](/Images/Banner.svg)
 
-Breakout for WearOS
+# Breakout for WearOS
+<a href='https://play.google.com/store/apps/details?id=com.roddyrappaport.breakoutwatch&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
 
 A port of the game Breakout (yes, the one from the 70's) for WearOS.
 A friend of mine talked about it, and it seemed like a fun project, so here it is!
@@ -23,5 +24,5 @@ Some screenshots:
 ![Screenshot 1](/Images/Screenshot_1642272587.png)
 ![Screenshot 2](/Images/Screenshot_1642271253.png)
 
-How it would look on a circular watch:  
+How it would look on a round watch:  
 <img src="./Images/s2.png" alt="Round Photoshop" height=500/>
